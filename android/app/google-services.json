@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684887409911",
+    "project_id": "anime-7327e",
+    "storage_bucket": "anime-7327e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684887409911:android:d292a0ef814ac479da7ff2",
+        "android_client_info": {
+          "package_name": "com.example.naai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIsk0CV4I-GdFt3aXdW8LKrZ9MOj-B7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
